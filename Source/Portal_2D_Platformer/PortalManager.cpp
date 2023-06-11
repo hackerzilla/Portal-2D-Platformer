@@ -20,6 +20,8 @@ void UPortalManager::BeginPlay()
 	Super::BeginPlay();
 
 	// ...
+
+		
 	
 }
 
